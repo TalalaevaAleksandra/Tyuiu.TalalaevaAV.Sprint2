@@ -5,7 +5,7 @@ namespace Tyuiu.TalalaevaAV.Sprint2.Task5.V10.Lib
     {
         public string FindDateOfPreviousDay(int g, int m, int n)
         {
-            
+            return "Не понимаю";
             
         }
     }
